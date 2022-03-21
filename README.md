@@ -1,2 +1,2 @@
 # demo-spring-boot
-demo spring boot project for tutorials and get used to it
+Built first spring boot project from officail documentation for tutorials and get used to it
